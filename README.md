@@ -10,6 +10,8 @@ The green color allows you to draw the new image after releasing the left button
 maximal number of digits after the floating point of a float type variable (the calculation mechanism based on defining if a certain point of the complex numbers plane belong to the "Mandelbrot set" or not. The more zeros after floating point available the more detailed image you can get).
 You can also change the resolution, maximal number of iterations and color palette. To do it open Options/Set Options
 
+---
+
 __Some screens:__
 
 ![screen1](/screenshots/screen1.png)
